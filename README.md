@@ -2,7 +2,7 @@
 
 <!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3672050.svg)](https://doi.org/10.5281/zenodo.3672050)-->
 
-This repository contains the replication package of the paper published at MSR 2021 with the title **Energy-Aware Robotics Software: A Catalog of Architectural Tactics from the ROS Ecosystem**.
+This repository contains the replication package of the paper submitted to ECSA 2021 with the title **Energy-Aware Robotics Software: A Catalog of Architectural Tactics from the ROS Ecosystem**.
 
 This study has been designed, developed, and reported by the following investigators:
 
