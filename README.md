@@ -57,7 +57,7 @@ All the explanation of the dataset building is in the folder [readme](./dataset/
 
 ---
 ```
-./dataset_building/
+./dataset/
   |--- include/
   	|--- helpers/				       Scripts for secondary tasks, such as reading the configuration file.
   	|--- mongodb/                                  Scripts to interact to MongoDB.
