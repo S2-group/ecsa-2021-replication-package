@@ -1,0 +1,528 @@
+PHASE1 ID,ID,Collection,Title,Date and Time,Timestamp,Robot Type,Main Capability
+C87222,DP1,Commits,jsk_common,2014-12-17 9:49:28,1418816968,Humanoid ,DevSupport
+C87203,DP2,Commits,jsk_common,2014-12-11 10:42:38,1418301758,Humanoid ,DevSupport
+C82758,DP3,Commits,aerial_autonomy,2017-12-04 0:00:00,1512352800,Aerial,Planning
+C82372,DP4,Commits,aerial_autonomy,2017-08-25 11:52:28,1503672748,Aerial,Planning
+C82205,DP5,Commits,aerial_autonomy,2017-04-14 0:00:00,1492138800,Aerial,Planning
+C82055,DP6,Commits,aerial_autonomy,2017-08-24 0:00:00,1503543600,Aerial,Planning
+C73332,DP7,Commits,cob_robots,2016-09-13 0:00:00,1473735600,Service,Base
+C73261,DP8,Commits,cob_robots,2016-08-05 14:05:16,1470416716,Service,Base
+C73016,DP9,Commits,cob_robots,2016-02-22 0:00:00,1456110000,Service,Base
+C70904,DP10,Commits,cob_robots,2012-12-05 0:00:00,1354672800,Service,Base
+C70875,DP11,Commits,cob_robots,2012-11-13 16:50:43,1352832643,Service,Base
+C70854,DP12,Commits,cob_robots,2012-11-08 8:02:40,1352368960,Service,Base
+C66043,DP13,Commits,cob_environment_perception,2015-04-05 5:59:39,1428224379,Service,Sensing
+C63074,DP14,Commits,cob_environment_perception,2012-06-13 0:00:00,1339556400,Service,Sensing
+C63073,DP15,Commits,cob_environment_perception,2012-06-13 0:00:00,1339556400,Service,Sensing
+C59785,DP16,Commits,cob_command_tools,2017-10-10 13:58:33,1507654713,Service,Integration
+C59596,DP17,Commits,cob_command_tools,2016-02-24 19:29:40,1456352980,Service,Integration
+C59588,DP18,Commits,cob_command_tools,2016-02-22 14:10:31,1456161031,Service,Integration
+C59583,DP19,Commits,cob_command_tools,2016-02-19 0:00:00,1455847200,Service,Integration
+C59169,DP20,Commits,cob_command_tools,2013-07-05 14:17:55,1373044675,Service,Integration
+C59120,DP21,Commits,cob_command_tools,2012-12-05 17:28:51,1354735731,Service,Integration
+C56381,DP22,Commits,evapi_ros,2016-02-04 16:07:56,1454609276,Ground,Control
+C56353,DP23,Commits,evapi_ros,2015-11-27 14:26:25,1448641585,Ground,Control
+C49863,DP24,Commits,grizzly,2013-02-06 0:00:00,1360116000,Ground,Navigation
+C44705,DP25,Commits,asctec_mav_framework,2012-06-26 19:32:42,1340749962,Aerial,Control
+C44653,DP26,Commits,asctec_mav_framework,2012-02-26 10:39:04,1330263544,Aerial,Control
+C44596,DP27,Commits,asctec_mav_framework,2011-10-11 1:45:28,1318308328,Aerial,Control
+C41326,DP28,Commits,Neo_robot,2015-02-12 9:11:13,1423739473,Service,FULL
+C40942,DP29,Commits,tangobot,2017-09-06 0:00:00,1504666800,Ground,Integration
+C40941,DP30,Commits,tangobot,2017-09-05 21:37:51,1504658271,Ground,Integration
+C40940,DP31,Commits,tangobot,2018-07-06 0:00:00,1530846000,Ground,Integration
+C40493,DP32,Commits,edinferno,2015-05-15 19:56:33,1431730593,Humanoid ,FULL
+C376,DP33,Commits,aau_multi_robot,2015-03-23 0:00:00,1427079600,Ground,FULL
+C373,DP34,Commits,aau_multi_robot,2015-04-09 0:00:00,1428548400,Ground,FULL
+C371,DP35,Commits,aau_multi_robot,2015-04-22 0:00:00,1429671600,Ground,FULL
+C369,DP36,Commits,aau_multi_robot,2015-04-22 0:00:00,1429671600,Ground,FULL
+C359,DP37,Commits,aau_multi_robot,2015-04-09 0:00:00,1428548400,Ground,FULL
+C356,DP38,Commits,aau_multi_robot,2015-04-23 9:07:19,1429790839,Ground,FULL
+C32998,DP39,Commits,DogBotSoftware,2018-06-29 13:12:46,1530288766,Ground,FULL
+C32995,DP40,Commits,DogBotSoftware,2018-06-28 16:48:19,1530215299,Ground,FULL
+C29359,DP41,Commits,clever,2019-08-29 20:59:05,1567123145,Aerial,FULL
+C26579,DP42,Commits,ArloBot,2016-12-17 0:00:00,1481940000,Ground,FULL
+C26112,DP43,Commits,ArloBot,2015-02-09 23:08:30,1423530510,Ground,FULL
+C24246,DP44,Commits,owr_software,2015-08-27 11:07:58,1440684478,Ground,FULL
+C23929,DP45,Commits,owr_software,2014-12-13 0:00:00,1418436000,Ground,FULL
+C216380,DP46,Commits,kobuki,2013-08-13 0:00:00,1376362800,Ground,FULL
+C216290,DP47,Commits,kobuki,2012-12-09 3:26:58,1355030818,Ground,FULL
+C216272,DP48,Commits,kobuki,2012-12-08 11:09:07,1354972147,Ground,FULL
+C215894,DP49,Commits,kobuki,2012-06-05 2:19:38,1338873578,Ground,FULL
+C215846,DP50,Commits,kobuki,2012-05-18 11:08:20,1337350100,Ground,FULL
+C215844,DP51,Commits,kobuki,2012-05-18 10:33:44,1337348024,Ground,FULL
+C215744,DP52,Commits,kobuki,2012-04-17 1:39:50,1334637590,Ground,FULL
+C215720,DP53,Commits,kobuki,2012-04-14 17:41:31,1334436091,Ground,FULL
+C215532,DP54,Commits,youbot-ros-pkg,2013-10-09 5:58:01,1381309081,Ground,FULL
+C215476,DP55,Commits,youbot-ros-pkg,2012-11-30 12:11:14,1354284674,Ground,FULL
+C21401,DP56,Commits,SwarmBaseCode-ROS,2016-12-19 22:25:07,1482193507,Ground,FULL
+C213219,DP57,Commits,crazyflie_ros,2014-10-29 5:50:53,1414569053,Aerial,FULL
+C212740,DP58,Commits,rov-control,2017-06-24 3:35:51,1498286151,Underwater,FULL
+C210983,DP59,Commits,frc_control,2019-06-25 15:46:01,1561488361,GEN,Infrastructural
+C210864,DP60,Commits,frc_control,2019-03-21 5:19:15,1553156355,GEN,Infrastructural
+C210036,DP61,Commits,segbot,2016-05-24 23:00:00,1464141600,Ground,Control
+C207670,DP62,Commits,SubjuGator,2017-07-14 23:00:00,1500084000,Underwater,FULL
+C207315,DP63,Commits,SubjuGator,2017-01-10 19:43:00,1484084580,Underwater,FULL
+C205977,DP64,Commits,NaviGator,2018-02-09 0:24:53,1518143093,Acquatic,FULL
+C205976,DP65,Commits,NaviGator,2018-02-08 23:00:00,1518138000,Acquatic,FULL
+C205536,DP66,Commits,NaviGator,2016-11-13 23:00:00,1479085200,Acquatic,FULL
+C205325,DP67,Commits,NaviGator,2016-10-21 23:00:00,1477098000,Acquatic,FULL
+C204914,DP68,Commits,NaviGator,2016-08-25 21:49:25,1472172565,Acquatic,FULL
+C202217,DP69,Commits,cola2_core,0000-00-00 00:00:00,0,GEN,Infrastructural
+C199079,DP70,Commits,turtlebot,2012-09-26 23:00:00,1348711200,Ground,FULL
+C199012,DP71,Commits,turtlebot,2011-12-11 23:00:00,1323651600,Ground,FULL
+C198708,DP72,Commits,turtlebot,2011-02-26 21:10:41,1298765441,Ground,FULL
+C188833,DP73,Commits,rtmros_common,2012-09-13 13:51:11,1347555071,GEN,Integration
+C186229,DP74,Commits,Sailboat-Ros,2017-07-13 23:00:00,1499997600,Acquatic,FULL
+C185463,DP75,Commits,self-driving-golf-cart,2019-04-11 23:00:00,1555034400,Selfdriving_car,FULL
+C180069,DP76,Commits,ros-icreate-bbb,2016-10-03 23:00:00,1475546400,Service,FULL
+C178985,DP77,Commits,rr_openrover_basic,0000-00-00 00:00:00,0,Ground,Control
+C178984,DP78,Commits,rr_openrover_basic,0000-00-00 00:00:00,0,Ground,Control
+C178952,DP79,Commits,rr_openrover_basic,0000-00-00 00:00:00,0,Ground,Control
+C178729,DP80,Commits,rospilot,2017-11-05 21:36:23,1509924983,Aerial,Control
+C177948,DP81,Commits,rosflight,2019-12-05 22:32:03,1575595923,Aerial,Control
+C177946,DP82,Commits,rosflight,2019-11-18 21:47:58,1574124478,Aerial,Control
+C174490,DP83,Commits,diagnostics,2014-11-26 3:40:16,1416980416,GEN,DevSupport
+C173916,DP84,Commits,diagnostics,2009-03-10 7:02:20,1236679340,GEN,DevSupport
+C16806,DP85,Commits,autoware,2019-03-29 23:00:00,1553911200,Selfdriving_car,FULL
+C16802,DP86,Commits,autoware,2019-03-24 23:00:00,1553479200,Selfdriving_car,FULL
+C157802,DP87,Commits,pr2_object_manipulation,2012-11-13 3:08:22,1352783302,Service,FULL
+C156794,DP88,Commits,motoman,2017-03-08 23:00:00,1489024800,Manu,FULL
+C156793,DP89,Commits,motoman,2017-03-08 23:00:00,1489024800,Manu,FULL
+C156745,DP90,Commits,motoman,2016-10-05 23:00:00,1475719200,Manu,FULL
+C150820,DP91,Commits,turtlebot3,2016-12-13 12:21:21,1481638881,Ground,FULL
+C150819,DP92,Commits,turtlebot3,2016-12-13 6:22:20,1481617340,Ground,FULL
+C148825,DP93,Commits,lizi,2018-11-04 11:07:06,1541336826,Ground,FULL
+C146816,DP94,Commits,igvc-software,2018-11-04 23:00:00,1541379600,Ground,FULL
+C146476,DP95,Commits,igvc-software,2019-03-19 4:38:40,1552981120,Ground,FULL
+C146149,DP96,Commits,igvc-software,2018-05-26 2:41:37,1527313297,Ground,FULL
+C145095,DP97,Commits,igvc-software,2015-05-10 23:00:00,1431309600,Ground,FULL
+C138236,DP98,Commits,elektron_robot,2011-07-27 11:48:55,1311778135,Service,Vision
+C138233,DP99,Commits,elektron_robot,2011-07-26 15:26:50,1311704810,Service,Vision
+C138176,DP100,Commits,elektron_robot,2011-06-11 16:32:33,1307820753,Service,Vision
+C129080,DP101,Commits,ros-control-center,2015-11-05 16:09:51,1446746991,GEN,Integration
+C129079,DP102,Commits,ros-control-center,2015-11-05 12:21:59,1446733319,GEN,Integration
+C129076,DP103,Commits,ros-control-center,2015-11-03 13:11:55,1446563515,GEN,Integration
+C129066,DP104,Commits,ros-control-center,2015-10-29 13:12:40,1446131560,GEN,Integration
+C128629,DP105,Commits,pandora_ros_pkgs,2015-07-07 23:00:00,1436320800,Ground,FULL
+C12664,DP106,Commits,create_autonomy,2016-04-02 18:35:18,1459632918,Service,FULL
+C126274,DP107,Commits,robotx_core,2018-12-04 14:36:48,1543941408,Acquatic,FULL
+C12622,DP108,Commits,create_autonomy,2016-03-24 23:00:00,1458871200,Service,FULL
+C12621,DP109,Commits,create_autonomy,2016-03-24 19:56:56,1458860216,Service,FULL
+C12607,DP110,Commits,create_autonomy,2016-03-16 23:00:00,1458180000,Service,FULL
+C12605,DP111,Commits,create_autonomy,2016-03-16 18:17:45,1458163065,Service,FULL
+C12507,DP112,Commits,bebop_autonomy,2016-03-22 23:00:00,1458698400,Aerial,FULL
+C118673,DP113,Commits,mavros,2014-05-15 23:00:00,1400205600,Aerial,Infrastructural
+C118415,DP114,Commits,minibot,2018-01-08 21:54:58,1515455698,Ground,FULL
+C118414,DP115,Commits,minibot,2018-01-08 23:00:00,1515459600,Ground,FULL
+C118301,DP116,Commits,minibot,2017-09-04 20:36:42,1504568202,Ground,FULL
+C118262,DP117,Commits,minibot,2017-08-23 16:56:56,1503518216,Ground,FULL
+C118254,DP118,Commits,minibot,2017-08-21 21:44:36,1503362676,Ground,FULL
+C117940,DP119,Commits,minibot,2017-05-23 20:55:50,1495583750,Ground,FULL
+C117926,DP120,Commits,minibot,2017-05-06 19:57:42,1494111462,Ground,FULL
+C117923,DP121,Commits,minibot,2017-05-06 19:31:46,1494109906,Ground,FULL
+C117832,DP122,Commits,minibot,2017-03-19 22:45:38,1489974338,Ground,FULL
+C117771,DP123,Commits,minibot,2017-03-05 20:08:45,1488755325,Ground,FULL
+C113935,DP124,Commits,cart_opt_ctrl,2017-04-20 10:17:36,1492694256,Manu,Control
+C113689,DP125,Commits,haptic_teleoperation,2014-06-07 6:24:49,1402133089,Manu,Control
+C103060,DP126,Commits,jsk_robot,2019-12-04 4:54:01,1575446041,Humanoid ,Base
+C103026,DP127,Commits,jsk_robot,2019-06-05 23:00:00,1559786400,Humanoid ,Base
+C102886,DP128,Commits,jsk_robot,2019-10-06 13:14:16,1570378456,Humanoid ,Base
+C102885,DP129,Commits,jsk_robot,2019-10-02 15:20:51,1570040451,Humanoid ,Base
+C102881,DP130,Commits,jsk_robot,2019-10-02 13:12:40,1570032760,Humanoid ,Base
+C102724,DP131,Commits,jsk_robot,2019-05-22 7:53:34,1558522414,Humanoid ,Base
+C102719,DP132,Commits,jsk_robot,2018-06-30 12:42:11,1530373331,Humanoid ,Base
+C101392,DP133,Commits,jsk_robot,2015-10-18 14:27:54,1445185674,Humanoid ,Base
+C101049,DP134,Commits,jsk_robot,2015-05-15 23:00:00,1431741600,Humanoid ,Base
+C101046,DP135,Commits,jsk_robot,2015-05-18 11:13:30,1431958410,Humanoid ,Base
+C100485,DP136,Commits,jsk_robot,2014-10-15 23:00:00,1413424800,Humanoid ,Base
+C100484,DP137,Commits,jsk_robot,2014-10-15 14:09:38,1413392978,Humanoid ,Base
+C100292,DP138,Commits,jsk_robot,2014-06-04 9:07:33,1401883653,Humanoid ,Base
+GitIssue997,DP139,GitHubIssues,"Without GPS, Does the /mavros/setpoint_position/local work?","Apr 16, 2015",1429153200,Aerial,Infrastructural
+GitIssue957,DP140,GitHubIssues,Create curses based status/debug TUI,"Jan 19, 2018",1516327200,Acquatic,FULL
+GitIssue928,DP141,GitHubIssues,Implement drive_mode,"Apr 14, 2012",1334372400,Ground,FULL
+GitIssue926,DP142,GitHubIssues,Battery info not working on reference laptop?,"Oct 4, 2013",1380855600,Ground,FULL
+GitIssue925,DP143,GitHubIssues,Convert rosbag files to video files for visualization,"Oct 5, 2016",1475636400,Service,FULL
+GitIssue923,DP144,GitHubIssues,To-do List,"Jun 12, 2015",1434078000,Humanoid ,Base
+GitIssue920,DP145,GitHubIssues,sensor_msgs::BatteryState percentage with a negative value,"Jul 27, 2019",1564196400,Aerial,Infrastructural
+GitIssue916,DP146,GitHubIssues,Launch crazyflie that is turned off,"Jan 26, 2016",1453773600,Aerial,FULL
+GitIssue913,DP147,GitHubIssues,Battery charge set to 100% just after connecting it to the adapter,"Jun 20, 2012",1340161200,Ground,FULL
+GitIssue91,DP148,GitHubIssues,Reg:Couldn't determine robot's pose associated with laser scan - burger,"Oct 22, 2019",1571713200,Ground,FULL
+GitIssue907,DP149,GitHubIssues,Break out linux_hardware,"Feb 6, 2013",1360116000,Ground,FULL
+GitIssue906,DP150,GitHubIssues,Handle Robot Charge state,"Jan 14, 2019",1547431200,Ground,FULL
+GitIssue897,DP151,GitHubIssues,"Using 1800 batteries, will the opencr board be damaged when the voltage is unstable?","May 15, 2018",1526353200,Ground,FULL
+GitIssue601,DP152,GitHubIssues,Replace time-based global path replanning with a condition-based approach,"Jun 24, 2019",1561345200,Ground,Navigation
+GitIssue6,DP153,GitHubIssues,Estimate battery cost,"Aug 8, 2014",1407466800,Ground,Infrastructural
+GitIssue586,DP154,GitHubIssues,"USB Power OK, but doesnt turn on with 11.1V battery or 12V SMPS power supply","Apr 15, 2019",1555297200,Ground,FULL
+GitIssue55,DP155,GitHubIssues,Make robot max battery voltage constant,"Feb 14, 2020",1581649200,Ground,FULL
+GitIssue548,DP156,GitHubIssues,Increase the data stream rate in px4 stack using mavros,"Aug 12, 2016",1470970800,Aerial,Infrastructural
+GitIssue52,DP157,GitHubIssues,Publish gps position and battery state,"Oct 28, 2019",1572231600,Aerial,Navigation
+GitIssue498,DP158,GitHubIssues,Sudden power on / off in OpenCR broke NUC,"Dec 11, 2018",1544493600,Humanoid ,FULL
+GitIssue491,DP159,GitHubIssues,Trigger adapter/docking base plug/unplug events,"Jun 25, 2012",1340593200,Ground,FULL
+GitIssue489,DP160,GitHubIssues,Battery Documentation,"Jun 11, 2012",1339383600,Ground,FULL
+GitIssue488,DP161,GitHubIssues,Battery Level Runtime Graph,"Apr 14, 2012",1334372400,Ground,FULL
+GitIssue479,DP162,GitHubIssues,Publish battery from Tangobot,"Jun 5, 2017",1496631600,Ground,Integration
+GitIssue470,DP163,GitHubIssues,High-level controller causing failed takeoff,"Nov 5, 2018",1541383200,Aerial,FULL
+GitIssue469,DP164,GitHubIssues,Is the simulation working?,"Jul 9, 2015",1436410800,Manu,Control
+GitIssue466,DP165,GitHubIssues,All navdatas are always at 0,"May 29, 2016",1464490800,Aerial,FULL
+GitIssue465,DP166,GitHubIssues,Echoing /bebop/cmd_vel displays nothing,"Aug 23, 2019",1566529200,Aerial,FULL
+GitIssue460,DP167,GitHubIssues,"(Update: ""Size doesn't match!"" error) Crazyflie won't log battery, temperature, etc.","Jul 7, 2016",1467860400,Aerial,FULL
+GitIssue459,DP168,GitHubIssues,Battery warning spam if no battery,"Jun 4, 2012",1338778800,Ground,FULL
+GitIssue455,DP169,GitHubIssues,Segbot batteries: need endurance tests,"May 20, 2015",1432090800,Ground,Base
+GitIssue452,DP170,GitHubIssues,segbot_sensors: smooth voltage data in battery diagnostics node,"Apr 29, 2015",1430276400,Ground,Control
+GitIssue448,DP171,GitHubIssues,Add log support for Annunciator messages,"Jan 6, 2019",1546740000,Ground,FULL
+GitIssue447,DP172,GitHubIssues,Will turtlebot be released & supported on Kinetic?,"May 23, 2016",1463972400,Ground,FULL
+GitIssue430,DP173,GitHubIssues,setpoint_attitude still not publishing attitude in latest mavros,"Oct 11, 2017",1507690800,Aerial,Infrastructural
+GitIssue43,DP174,GitHubIssues,Trouble with launching driver,"Mar 16, 2019",1552705200,Aerial,FULL
+GitIssue422,DP175,GitHubIssues,No camera images to ROS topics with M210,"Sep 4, 2018",1536030000,Aerial,FULL
+GitIssue421,DP176,GitHubIssues,Bebop Disconnects From Wireless Network When Driver is Launched,"May 6, 2016",1462503600,Aerial,FULL
+GitIssue420,DP177,GitHubIssues,[DISCO] `Video streaming started` encounters `shared_ptr` error,"Dec 6, 2016",1480989600,Aerial,FULL
+GitIssue417,DP178,GitHubIssues,Odometry shows false data,"Jul 23, 2019",1563850800,Ground,Control
+GitIssue416,DP179,GitHubIssues,Safety Node,"Feb 6, 2017",1486346400,Underwater,FULL
+GitIssue415,DP180,GitHubIssues,kinect with arlobot,"Oct 16, 2015",1444964400,Ground,FULL
+GitIssue414,DP181,GitHubIssues,Battery Data,"Feb 22, 2013",1361502000,Ground,FULL
+GitIssue413,DP182,GitHubIssues,Fix Kobuki's inertia,"Jun 17, 2013",1371438000,Ground,FULL
+GitIssue412,DP183,GitHubIssues,Battery,"Apr 10, 2012",1334026800,Ground,FULL
+GitIssue410,DP184,GitHubIssues,hover with vrpn problems,"Nov 10, 2017",1510279200,Aerial,FULL
+GitIssue406,DP185,GitHubIssues,Control with protective frame,"Jan 21, 2016",1453341600,Aerial,FULL
+GitIssue403,DP186,GitHubIssues,Publish laptop battery status,"Apr 16, 2012",1334545200,Ground,FULL
+GitIssue401,DP187,GitHubIssues,Too many timed out error on kobuki_node,"Nov 22, 2012",1353549600,Ground,FULL
+GitIssue400,DP188,GitHubIssues,What is the Android Cog?,"Apr 20, 2012",1334890800,Ground,FULL
+GitIssue4,DP189,GitHubIssues,Publish the battery state as a ROS standard message,"Apr 7, 2016",1459998000,Aerial,FULL
+GitIssue399,DP190,GitHubIssues,kobuki diagnostics parameter was out dated,"Aug 26, 2014",1409022000,Ground,FULL
+GitIssue398,DP191,GitHubIssues,Check charger bit flags,"Apr 14, 2012",1334372400,Ground,FULL
+GitIssue397,DP192,GitHubIssues,Thrusters not giving feedback,"Sep 6, 2016",1473130800,Acquatic,FULL
+GitIssue396,DP193,GitHubIssues,RobotTeq motor controller current trip,"Sep 12, 2016",1473649200,Acquatic,FULL
+GitIssue395,DP194,GitHubIssues,Battery kill never unkills,"Oct 23, 2017",1508724000,Acquatic,FULL
+GitIssue394,DP195,GitHubIssues,Address Battery Paradox,"Oct 22, 2017",1508637600,Acquatic,FULL
+GitIssue390,DP196,GitHubIssues,add a way to disable laptop battery checks,"Jun 27, 2016",1466996400,Ground,FULL
+GitIssue39,DP197,GitHubIssues,Trusty laptop battery state not detected,"Jun 1, 2014",1401591600,Ground,FULL
+GitIssue387,DP198,GitHubIssues,Battery Voltage topic not visible on latest image,"Sep 14, 2017",1505358000,Ground,Base
+GitIssue385,DP199,GitHubIssues,Battery charge is always zero in visualizations,"Nov 2, 2016",1478052000,Service,FULL
+GitIssue384,DP200,GitHubIssues,Battery life,"Sep 30, 2016",1475204400,Service,FULL
+GitIssue383,DP201,GitHubIssues,Test rosbag recording on robot,"Sep 23, 2016",1474599600,Service,FULL
+GitIssue377,DP202,GitHubIssues,battery topic seems to always publish 0?,"Feb 7, 2016",1454810400,Ground,FULL
+GitIssue374,DP203,GitHubIssues,How to use large capacity battery ？,"May 15, 2018",1526353200,Ground,FULL
+GitIssue371,DP204,GitHubIssues,/dev/tty/ACM0 disappears when OpenCR's 12V output is used,"Apr 19, 2018",1524106800,Ground,FULL
+GitIssue368,DP205,GitHubIssues,/battery_state/current does not update,"Oct 5, 2018",1538708400,Ground,FULL
+GitIssue366,DP206,GitHubIssues,Turtlebot3_core doesn't grab the NAMESPACE configuration,"Oct 30, 2018",1540868400,Ground,FULL
+GitIssue365,DP207,GitHubIssues,Dynamixel gets stuck after some movement.,"Oct 30, 2018",1540868400,Ground,FULL
+GitIssue361,DP208,GitHubIssues,Rviz Plugin - Display Battery Level,"Oct 25, 2015",1445738400,Ground,FULL
+GitIssue360,DP209,GitHubIssues,Power supply Intel Nuc and OpenCR,"Mar 25, 2019",1553482800,Humanoid ,FULL
+GitIssue358,DP210,GitHubIssues,Motor Setup Issue,"Mar 6, 2018",1520305200,Ground,FULL
+GitIssue355,DP211,GitHubIssues,Bringing up joystick node drains battery (ros ticket #3608),"Mar 12, 2013",1363057200,Service,Base
+GitIssue353,DP212,GitHubIssues,PX4 connection test,"Jul 26, 2014",1406343600,Aerial,Infrastructural
+GitIssue352,DP213,GitHubIssues,Define setpoints also as a service,"Aug 17, 2014",1408244400,Aerial,Infrastructural
+GitIssue350,DP214,GitHubIssues,Add topics for orientation control setpoint.,"Jun 15, 2014",1402801200,Aerial,Infrastructural
+GitIssue349,DP215,GitHubIssues,Better communication between my computer and my drone / Change Mavros/Mavlink settings,"Oct 12, 2018",1539313200,Aerial,Infrastructural
+GitIssue348,DP216,GitHubIssues,Sync ROS time with FCU time,"Jul 18, 2017",1500346800,Aerial,Infrastructural
+GitIssue347,DP217,GitHubIssues,rosrun mavros mavsafety arm Request failed.,"May 24, 2017",1495594800,Aerial,Infrastructural
+GitIssue344,DP218,GitHubIssues,Mavros topic not publishing on ArduCopter,"Dec 30, 2015",1451440800,Aerial,Infrastructural
+GitIssue343,DP219,GitHubIssues,Plugins not publishing when using TELEM2,"Feb 6, 2015",1423188000,Aerial,Infrastructural
+GitIssue342,DP220,GitHubIssues,Pixhawk driver,"Jan 23, 2015",1421978400,Aerial,Infrastructural
+GitIssue341,DP221,GitHubIssues,Extending mavros support to IRIS+,"Dec 19, 2014",1418954400,Aerial,Infrastructural
+GitIssue337,DP222,GitHubIssues,PR1040のバッテリ交換,"Apr 13, 2018",1523588400,Humanoid ,Base
+GitIssue336,DP223,GitHubIssues,add a script to show time to charge and remaining battery time,"Apr 7, 2014",1396839600,Humanoid ,Base
+GitIssue335,DP224,GitHubIssues,Packing list for competition,"Nov 27, 2018",1543284000,Selfdriving_car,FULL
+GitIssue332,DP225,GitHubIssues,Properly fix battery,"Oct 19, 2016",1476842400,Selfdriving_car,FULL
+GitIssue329,DP226,GitHubIssues,Issues with 0.1.8 Release,"Jun 14, 2016",1465873200,Aerial,FULL
+GitIssue328,DP227,GitHubIssues,Compass reading is not published,"Apr 25, 2016",1461553200,Aerial,FULL
+GitIssue325,DP228,GitHubIssues,Update to 3.9 for ROS Package?,"Oct 8, 2019",1570503600,Aerial,FULL
+GitIssue323,DP229,GitHubIssues,Get smart servos working,"Mar 14, 2014",1394766000,Ground,Infrastructural
+GitIssue321,DP230,GitHubIssues,Unable to run ardrone_driver on drone 1.0 (firmware 1.7.11),"Nov 21, 2012",1353463200,Aerial,FULL
+GitIssue317,DP231,GitHubIssues,No bottom camera stream,"Jan 9, 2017",1483927200,Aerial,FULL
+GitIssue313,DP232,GitHubIssues,turtlebot3 low battery beeping,"Jul 3, 2018",1530586800,Ground,FULL
+GitIssue312,DP233,GitHubIssues,put battery characterization into a proper stack/package (ros ticket #3747),"Mar 12, 2013",1363057200,Service,Base
+GitIssue311,DP234,GitHubIssues,FCU: arming denied check battery,"Jan 20, 2020",1579489200,Aerial,Infrastructural
+GitIssue310,DP235,GitHubIssues,Publish battery status,"May 15, 2014",1400122800,Aerial,Infrastructural
+GitIssue303,DP236,GitHubIssues,To configure maximum speed at runtime,"Jan 6, 2020",1578279600,Ground,Navigation
+GitIssue3,DP237,GitHubIssues,GNC: write common library for 3D thruster mapping,"Feb 8, 2019",1549591200,Acquatic,Sensing
+GitIssue267,DP238,GitHubIssues,offboard request failed,"Feb 15, 2019",1550196000,Aerial,Infrastructural
+GitIssue26,DP239,GitHubIssues,Add support for battery state,"Mar 8, 2016",1457406000,Service,FULL
+GitIssue237,DP240,GitHubIssues,"segbot_sensors: Segbot V4 battery, hardware information is ignored","Feb 5, 2020",1580871600,Ground,Control
+GitIssue227,DP241,GitHubIssues,Stablilizing Image frequency,"Dec 10, 2018",1544407200,Aerial,FULL
+GitIssue225,DP242,GitHubIssues,low battery of PR1040,"Jun 14, 2018",1528945200,Humanoid ,Base
+GitIssue21,DP243,GitHubIssues,Random errors with asctec_mav_framework,"May 24, 2016",1464058800,Aerial,Control
+GitIssue209,DP244,GitHubIssues,[minor] Incorrect battery charge state when the base is plugged in,"Oct 27, 2016",1477533600,Service,FULL
+GitIssue14,DP245,GitHubIssues,Add action server feedback to all action tasks,"Nov 11, 2019",1573441200,Ground,Navigation
+GitIssue134,DP246,GitHubIssues,Turtlebot battery monitoring,"Feb 14, 2020",1581649200,Ground,FULL
+GitIssue115,DP247,GitHubIssues,Autonomous Navigation with Turtlebot and Kinect2,"Nov 14, 2018",1542160800,Ground,Slam
+GitIssue1107,DP248,GitHubIssues,Battery charge not shown in Android apps,"Jun 20, 2012",1340161200,Ground,FULL
+GitIssue11,DP249,GitHubIssues,"dji_sdk_node crashes, probably related to missions","Sep 14, 2017",1505358000,Aerial,FULL
+GitIssue1073,DP250,GitHubIssues,Frequent Hard syncing of clock,"Oct 8, 2017",1507431600,Aerial,Infrastructural
+GitIssue1043,DP251,GitHubIssues,MAVROS::Altitude still a valid message?,"Nov 23, 2018",1542938400,Aerial,Infrastructural
+GitIssue1003,DP252,GitHubIssues,Send MAVLink messages to QGroundControl,"Jul 14, 2016",1468465200,Aerial,Infrastructural
+GitIssue10,DP253,GitHubIssues,Missing Battery Information,"Dec 15, 2017",1513303200,Aerial,FULL
+GitIssue0,DP254,GitHubIssues,kobuki:Timed out while waiting for serial data stream [/mobile_base],"Feb 27, 2017",1488164400,Ground,FULL
+GitPR98,DP255,GitHubPRs,Added timeout to logblock stop in Crazyflie_cpp,"Sep 26, 2016",1474858800,Aerial,FULL
+GitPR94,DP256,GitHubPRs,INSTALL: Common Install Script and Miscellaneous Fixes,"Sep 19, 2016",1474254000,Acquatic,FULL
+GitPR92,DP257,GitHubPRs,Add dead robot handling and more messages to radio_communication,"Jun 24, 2019",1561345200,Ground,FULL
+GitPR90,DP258,GitHubPRs,GUI,"Sep 5, 2017",1504580400,Acquatic,FULL
+GitPR89,DP259,GitHubPRs,BUS VOLTAGE: widen window for bus voltage estimate,"May 16, 2017",1494903600,Underwater,FULL
+GitPR88,DP260,GitHubPRs,segbot battery profiler,"Jun 2, 2016",1464836400,Ground,Control
+GitPR84,DP261,GitHubPRs,Simplify launch,"Aug 19, 2016",1471575600,Ground,FULL
+GitPR83,DP262,GitHubPRs,Fixing Roomba config file & laptop battery monitor fix,"Mar 18, 2013",1363575600,Ground,FULL
+GitPR80,DP263,GitHubPRs,Ethernet,"Mar 19, 2019",1552964400,Ground,FULL
+GitPR78,DP264,GitHubPRs,Feature/battery monitor driver,"Dec 5, 2018",1543975200,Acquatic,FULL
+GitPR76,DP265,GitHubPRs,[jsk_fetch_startup] add speak battery app,"Oct 6, 2019",1570330800,Humanoid ,Base
+GitPR75,DP266,GitHubPRs,[jsk_fetch_startup] add battery warning node to fetch,"Oct 7, 2019",1570417200,Humanoid ,Base
+GitPR74,DP267,GitHubPRs,add script to visualize pr2 battery,"Jun 4, 2014",1401850800,Humanoid ,Base
+GitPR73,DP268,GitHubPRs,[jsk_pr2_startup] use new battery warning,"Jun 26, 2019",1561518000,Humanoid ,Base
+GitPR72,DP269,GitHubPRs,"Fix logic for takeoff, position control","Mar 11, 2017",1489201200,Aerial,Planning
+GitPR70,DP270,GitHubPRs,disabled battery monitor sound/light and emmonitor sound,"Jun 23, 2016",1466650800,Service,Base
+GitPR68,DP271,GitHubPRs,Add rpyt based pos control,"Aug 16, 2017",1502852400,Aerial,Planning
+GitPR64,DP272,GitHubPRs,Publishing robot and device battery,"Sep 6, 2017",1504666800,Ground,Integration
+GitPR63,DP273,GitHubPRs,Fix battery warning,"Dec 11, 2019",1576033200,Humanoid ,Base
+GitPR62,DP274,GitHubPRs,Feature/battery status,"Oct 1, 2018",1538362800,Ground,Control
+GitPR61,DP275,GitHubPRs,add battery guard to calvin.launch,"Feb 18, 2015",1424224800,Service,FULL
+GitPR58,DP276,GitHubPRs,Compute and publish battery charge ratio,"Mar 24, 2016",1458788400,Service,FULL
+GitPR57,DP277,GitHubPRs,Add battery info topics,"Mar 16, 2016",1458097200,Service,FULL
+GitPR56,DP278,GitHubPRs,VISUALIZATION: add battery voltage and interactive kill markers,"Jan 8, 2017",1483840800,Underwater,FULL
+GitPR55,DP279,GitHubPRs,disable the battery node if TURTLEBOT_BATTERY is set to None,"Jun 28, 2016",1467082800,Ground,FULL
+GitPR53,DP280,GitHubPRs,add battery full capacity summary script,"Dec 12, 2014",1418349600,Humanoid ,DevSupport
+GitPR52,DP281,GitHubPRs,[jsk_tools/bin/battery_capacity_summary.py] print N/A for unavailable data,"Jan 26, 2016",1453773600,Humanoid ,DevSupport
+GitPR51,DP282,GitHubPRs,[jsk_tools/bin/battery_capacity_summary.py] more battery info,"Dec 29, 2015",1451354400,Humanoid ,DevSupport
+GitPR50,DP283,GitHubPRs,Speak the remaining percentages of the battery if it's not charged,"Oct 15, 2014",1413342000,Humanoid ,Base
+GitPR5,DP284,GitHubPRs,Merge PR1040 branch to master,"Oct 4, 2019",1570158000,Humanoid ,Base
+GitPR49,DP285,GitHubPRs,Speak the remaining percentages of the battery if it's not charged,"Oct 15, 2014",1413342000,Humanoid ,Base
+GitPR48,DP286,GitHubPRs,speak the percentage of the battery with min charge and it's id,"May 18, 2015",1431918000,Humanoid ,Base
+GitPR47,DP287,GitHubPRs,add a sample program to visualize pr2 battery,"May 15, 2014",1400122800,Humanoid ,DevSupport
+GitPR46,DP288,GitHubPRs,added battery light monitor to cob4-2s bringup,"Feb 19, 2016",1455847200,Service,Base
+GitPR45,DP289,GitHubPRs,params for battery capacity calculation added,"Jul 2, 2016",1467428400,Service,Base
+GitPR440,DP290,GitHubPRs,BATTERY: ignore voltage readings if fault,"Oct 30, 2017",1509328800,Acquatic,FULL
+GitPR438,DP291,GitHubPRs,Battery Diagnostics for Segbot_v3,"May 25, 2016",1464145200,Ground,Control
+GitPR437,DP292,GitHubPRs,INSTALL: Common Install Script and Miscellaneous Fixes,"Sep 20, 2016",1474340400,Acquatic,FULL
+GitPR43,DP293,GitHubPRs,Abort instead of Land when battery is low,"Aug 25, 2017",1503630000,Aerial,Planning
+GitPR417,DP294,GitHubPRs,"Segbot2, voltage emailer update","Mar 5, 2015",1425524400,Ground,Control
+GitPR413,DP295,GitHubPRs,Created system_stats node to publish system information,"Feb 9, 2019",1549677600,Ground,FULL
+GitPR411,DP296,GitHubPRs,"add voltage, current and temperature info for pr2 battery logger","Oct 14, 2019",1571022000,Humanoid ,Base
+GitPR40,DP297,GitHubPRs,Add battery charging state,"May 30, 2019",1559185200,Selfdriving_car,FULL
+GitPR4,DP298,GitHubPRs,Feat/reduce imu spam,"Feb 9, 2020",1581217200,Ground,FULL
+GitPR39,DP299,GitHubPRs,Add state battery charging,"Feb 26, 2019",1551150000,Selfdriving_car,FULL
+GitPR37,DP300,GitHubPRs,Cost matrix image,"Mar 18, 2019",1552878000,Aerial,Vision
+GitPR36,DP301,GitHubPRs,v1.3.7 MotoROS Driver,"Oct 7, 2016",1475809200,Manu,FULL
+GitPR231,DP302,GitHubPRs,Initial messages for review.,"Apr 18, 2014",1397790000,Ground,Control
+GitPR174,DP303,GitHubPRs,fix renamed files for battery info on Ubuntu 12.04.3 LTS - Kernel 3.8,"Oct 28, 2013",1382925600,Ground,FULL
+GitPR17,DP304,GitHubPRs,Added recover and stop in RobotHW,"Dec 1, 2017",1512093600,GEN,Control
+GitPR136,DP305,GitHubPRs,Feature/power state,"Aug 15, 2016",1471230000,Service,Base
+GitPR125,DP306,GitHubPRs,"added diagnostics message, dashboard, youbot battery monitor and adjust sim parameter","Nov 30, 2012",1354240800,Ground,FULL
+GitPR124,DP307,GitHubPRs,Driver Station Backend,"Jun 25, 2019",1561431600,GEN,Infrastructural
+GitPR123,DP308,GitHubPRs,Sensor Control and Install,"Aug 27, 2016",1472266800,Acquatic,FULL
+GitPR119,DP309,GitHubPRs,add hardware id tp battery capacity,"Dec 18, 2014",1418868000,Humanoid ,DevSupport
+GitPR114,DP310,GitHubPRs,add roscore_check,"Dec 23, 2014",1419300000,Humanoid ,DevSupport
+GitPR113,DP311,GitHubPRs,Record battery info before power go off,"Nov 16, 2015",1447639200,Humanoid ,Base
+GitPR109,DP312,GitHubPRs,[jsk_tools] Show voltage in battery_capacity_summary.py,"May 27, 2019",1558926000,Humanoid ,DevSupport
+GitPR107,DP313,GitHubPRs,GUI: add GUI for voltage monitoring,"Nov 21, 2017",1511229600,Acquatic,FULL
+GitPR102,DP314,GitHubPRs,Sound emergency stop monitor,"Oct 11, 2017",1507690800,Service,Integration
+GitPR100,DP315,GitHubPRs,[jsk_pr2_startup] To deal with NA battery,"Nov 25, 2019",1574650800,Humanoid ,Base
+GitPR1,DP316,GitHubPRs,Adding battery voltage information to ROS msg,"Jan 16, 2019",1547604000,Aerial,FULL
+REPO_P211,DP317,Repositories,lg_ros_nodes,"May 31, 2017",1496199600,Other,FULL
+REPO_P210,DP318,Repositories,lg_ros_nodes,"May 31, 2017",1496199600,Other,FULL
+REPO_P191,DP319,Repositories,ccny-ros-pkg-pbouffard,"Jul 25, 2010",1280026800,Aerial,FULL
+REPO_P138,DP320,Repositories,minibot,"Aug 9, 2017",1502247600,Ground,FULL
+REPO_P1205,DP321,Repositories,Neo_robot,"Nov 22, 2014",1416621600,Service,FULL
+REPO_P1138,DP322,Repositories,ArloBot,"Aug 18, 2020",1597719600,Ground,FULL
+REPO_P1132,DP323,Repositories,Software,NA,0,Underwater,FULL
+REPO_P1101,DP324,Repositories,phx_quadrocopter_ros,"Jun 24, 2017",1498273200,Aerial,FULL
+REPO_P1087,DP325,Repositories,cola2_core,"Jan 07, 2019",1546826400,GEN,Infrastructural
+REPO_P1086,DP326,Repositories,cola2_core,"Jan 07, 2019",1546826400,GEN,Infrastructural
+REPO_P1077,DP327,Repositories,minibot,"Apr 6, 2017",1491447600,Ground,FULL
+REPO_P1073,DP328,Repositories,minibot,"Apr 6, 2017",1491447600,Ground,FULL
+REPO_P1070,DP329,Repositories,minibot,"Apr 6, 2017",1491447600,Ground,FULL
+REPO_P1069,DP330,Repositories,ros-icreate-bbb,"Oct 9, 2016",1475982000,Service,FULL
+REPO_P1067,DP331,Repositories,ros-icreate-bbb,"Aug 28, 2016",1472353200,Service,FULL
+REPO_P1034,DP332,Repositories,Neo_robot,"Feb 12, 2015",1423706400,Service,FULL
+REPO_P1017,DP333,Repositories,Neo_robot,"Feb 12, 2015",1423706400,Service,FULL
+REPO_P1014,DP334,Repositories,cob_command_tools,"Oct 13, 2014",1413169200,Service,Integration
+ROSA98,DP335,ROSAnswers,Ending nodes/topics from python script,2018-06-27 11:21:39 -0600,1530109299,Ground,Vision
+ROSA94,DP336,ROSAnswers,How to create a Battery usage plugin,2017-09-22 17:43:08 -0600,1506112988,GEN,Infrastructural
+ROSA90,DP337,ROSAnswers,how to combine coordinate program and auto docking program,2017-04-15 04:30:18 -0600,1492241418,GEN,Planning
+ROSA88,DP338,ROSAnswers,Kobuki - Auto Docking - Action server is not connected yet,2017-02-03 01:52:53 -0600,1486093973,Ground,Navigation
+ROSA868,DP339,ROSAnswers,Turtlebot 2 kinect type(xbox360 version or PC version?),2016-05-22 23:05:25 -0600,1463969125,Ground,Control
+ROSA862,DP340,ROSAnswers,board: minimum hardware requirements? single board? full motherboard? nuc? mini-itx?,2014-07-09 12:57:38 -0600,1404921458,GEN,Base
+ROSA85,DP341,ROSAnswers,rviz on PC not reconnecting after robot reboot,2016-09-13 14:12:16 -0600,1473786736,GEN,Vision
+ROSA839,DP342,ROSAnswers,Turtlebot 3 Questions,2017-10-22 20:03:05 -0600,1508709785,Ground,Base
+ROSA824,DP343,ROSAnswers,Laser scanner choose,2016-04-19 03:12:27 -0600,1461046347,GEN,Sensing
+ROSA808,DP344,ROSAnswers,Single board PC for ROS,2012-10-15 17:44:36 -0600,1350333876,GEN,Base
+ROSA8,DP345,ROSAnswers,start ur5 remotely,2017-06-27 02:39:47 -0600,1498541987,Manu,Control
+ROSA796,DP346,ROSAnswers,rosbridge image (uri-data),2012-05-21 05:20:14 -0600,1337588414,GEN,Base
+ROSA79,DP347,ROSAnswers,Ros memory usage,2016-01-19 06:20:39 -0600,1453191639,GEN,Base
+ROSA77,DP348,ROSAnswers,Control 8x8 grid of RGB LEDs like Raspberry Pi Sense Hat or Unicorn Hat?,2015-12-24 00:30:48 -0600,1450924248,GEN,Control
+ROSA755,DP349,ROSAnswers,Equip Arduino based lawn mower with ROS,2019-05-13 05:57:03 -0600,1557737823,GEN,Base
+ROSA74,DP350,ROSAnswers,Shutdown nodes from within a ROS node,2015-09-29 10:17:32 -0600,1443532652,GEN,Control
+ROSA737,DP351,ROSAnswers,"Our robot will be equipped with lidars, sterio camera, SLAM algorithm, machine vision and similar loads. Please suggest us the computer specification which will be ideal and optimal?",2017-06-12 05:33:13 -0600,1497256393,Selfdriving_car,Vision
+ROSA725,DP352,ROSAnswers,How to get the battery status of a robot in gazebo?,2016-06-14 04:03:45 -0600,1465887825,GEN,DevSupport
+ROSA72,DP353,ROSAnswers,Problem connect turtlebot and workstation,2015-08-03 04:43:54 -0600,1438587834,Ground,Integration
+ROSA716,DP354,ROSAnswers,Getting Started with ROS,2015-07-17 17:55:14 -0600,1437166514,GEN,Base
+ROSA71,DP355,ROSAnswers,Shutdown system (computer) with a ROS node,2015-07-25 09:10:11 -0600,1437826211,GEN,Control
+ROSA708,DP356,ROSAnswers,Commanding simple paths / curves to move_base,2014-12-19 20:40:03 -0600,1419028803,GEN,Sensing
+ROSA633,DP357,ROSAnswers,2d navigation with Arduino + iRobot?,2019-06-04 16:28:03 -0600,1559676483,Ground,Navigation
+ROSA61,DP358,ROSAnswers,Unable to check laptop battery [closed],2012-08-22 12:41:59 -0600,1345650119,GEN,Sensing
+ROSA606,DP359,ROSAnswers,DC MOTOR + ENCODER + PYTHON,2016-10-12 01:53:30 -0600,1476248010,GEN,Base
+ROSA60,DP360,ROSAnswers,Brand new Roomba 790 Malfunctioning,2013-12-19 18:28:40 -0600,1387484920,Service,Infrastructural
+ROSA6,DP361,ROSAnswers,How to mount a Kinect with my laptop without any AC Adapter [closed],2011-05-02 04:43:08 -0600,1304322188,GEN,Base
+ROSA59,DP362,ROSAnswers,questions about irobot create,2013-11-10 12:36:54 -0600,1384094214,Ground,Base
+ROSA58,DP363,ROSAnswers,Using SMACH to monitor robot battery level,2013-10-21 07:00:52 -0600,1382346052,GEN,DevSupport
+ROSA562,DP364,ROSAnswers,Turtlebot Netbook Battery Error,2013-02-13 12:21:54 -0600,1360765314,Ground,Sensing
+ROSA544,DP365,ROSAnswers,Is there a ros package that can provide GUI for other ros nodes?,2013-01-01 05:37:56 -0600,1357025876,GEN,DevSupport
+ROSA54,DP366,ROSAnswers,Turtlebot unable to check laptop battery/BAT0/state,2013-07-17 20:31:17 -0600,1374103877,Ground,DevSupport
+ROSA537,DP367,ROSAnswers,turtlebot.eu power board and kinect,2012-03-28 02:26:26 -0600,1332912386,Ground,Base
+ROSA512,DP368,ROSAnswers,Has anyone worked with the Clearpath Robotics Husky A200?,2011-03-28 09:57:44 -0600,1301317064,Ground,Navigation
+ROSA51,DP369,ROSAnswers,Cancelling a ROS action within an executive_teer node,2013-04-04 04:58:28 -0600,1365062308,GEN,Base
+ROSA458,DP370,ROSAnswers,Hector Exploration Slow?,2016-12-09 16:16:52 -0600,1481307412,Humanoid ,Base
+ROSA411,DP371,ROSAnswers,What compact PC to buy to run ROS in a mobile robot,2015-09-22 11:26:52 -0600,1442932012,GEN,Base
+ROSA405,DP372,ROSAnswers,ros compatible SBC or minipc for Turtlebot (Kobuki),2017-10-04 10:01:40 -0600,1507122100,Ground,Base
+ROSA4,DP373,ROSAnswers,Data Droping at transport layer,2013-04-15 21:19:26 -0600,1366071566,GEN,Infrastructural
+ROSA39,DP374,ROSAnswers,turtlebot gmapping large area,2012-02-15 01:43:30 -0600,1329277410,Ground,Mapping
+ROSA386,DP375,ROSAnswers,Best RGBD camera for ROS on a Raspberry Pi,2017-02-06 07:05:48 -0600,1486371948,GEN,Vision
+ROSA384,DP376,ROSAnswers,"i am trying to start turtlebot , but it is not starting.",2017-01-03 13:38:50 -0600,1483457930,Ground,Base
+ROSA36,DP377,ROSAnswers,Turtlebot doesn't start rotating on calibration,2011-11-15 14:04:06 -0600,1321373046,Ground,Base
+ROSA359,DP378,ROSAnswers,KeyError:'laptop_battery_state',2015-06-04 08:19:00 -0600,1433416740,GEN,DevSupport
+ROSA357,DP379,ROSAnswers,Kinect stops when moving motor,2015-04-23 11:25:07 -0600,1429799107,Ground,Base
+ROSA342,DP380,ROSAnswers,pocketsphinx microphone connection is unreliable,2014-07-07 09:58:40 -0600,1404737920,GEN,Sensing
+ROSA341,DP381,ROSAnswers,Create powers off after minimal.launch,2014-06-24 19:08:48 -0600,1403647728,GEN,Base
+ROSA3,DP382,ROSAnswers,UDPROS Protocol and Lost Packet/Sequencing Algorithms,2013-04-22 17:00:04 -0600,1366660804,GEN,Infrastructural
+ROSA291,DP383,ROSAnswers,Cant get data from Create robot - Error reading from SCI port ttyUSB0,2011-11-28 11:20:44 -0600,1322486444,GEN,Infrastructural
+ROSA290,DP384,ROSAnswers,Turtlebot arm servos not being recognized [closed],2011-11-18 07:08:37 -0600,1321607317,Ground,Base
+ROSA262,DP385,ROSAnswers,robot hits the obstacles and turns around occasionally using navigation stack,2015-01-13 12:44:04 -0600,1421160244,Ground,Vision
+ROSA25,DP386,ROSAnswers,battery_state_of_charge publishes nothing on Pioneer3DX,2014-08-26 04:42:47 -0600,1409038967,Ground,DevSupport
+ROSA230,DP387,ROSAnswers,ROS isn't recognizing Create,2016-07-20 16:08:42 -0600,1469041722,GEN,Base
+ROSA22,DP388,ROSAnswers,"the error about ""roslaunch""when driving the teleoperating part",2018-06-23 14:49:21 -0600,1529776161,GEN,Base
+ROSA219,DP389,ROSAnswers,are there standard battery level messages in ROS,2014-09-18 05:01:16 -0600,1411027276,GEN,DevSupport
+ROSA217,DP390,ROSAnswers,Turtlebot unable to check laptop battery/BAT0/state,2012-03-27 19:00:19 -0600,1332885619,Ground,DevSupport
+ROSA21,DP391,ROSAnswers,"Running Turtlebot minimal.launch on a PC, no battery state.",2018-03-18 13:55:30 -0600,1521392130,Ground,Base
+ROSA207,DP392,ROSAnswers,Local planner behaves unordinary,2019-01-22 06:22:47 -0600,1548145367,GEN,Planning
+ROSA206,DP393,ROSAnswers,ROS newby - suitability of old Thinkpad X240?,2019-11-06 03:02:08 -0600,1573020128,GEN,Base
+ROSA204,DP394,ROSAnswers,Using rosserial to read data from a device,2019-10-02 04:08:32 -0600,1570000112,GEN,Base
+ROSA20,DP395,ROSAnswers,Integration of energy framework with ROS,2014-04-11 12:33:43 -0600,1397230423,GEN,Integration
+ROSA2,DP396,ROSAnswers,Alternate Turtlebot Configurations,2013-02-09 11:27:14 -0600,1360416434,Ground,Base
+ROSA198,DP397,ROSAnswers,"Robot ""bucking"" while driving in reverse",2018-08-09 20:02:26 -0600,1533855746,Ground,Base
+ROSA194,DP398,ROSAnswers,turtlebot charging without battery,2017-09-12 07:04:39 -0600,1505210679,Ground,Base
+ROSA193,DP399,ROSAnswers,Intel Euclid battery state,2017-08-27 15:12:53 -0600,1503857573,GEN,DevSupport
+ROSA19,DP400,ROSAnswers,ROS internals - topics storage and network comms?,2014-04-11 02:52:34 -0600,1397195554,GEN,Base
+ROSA189,DP401,ROSAnswers,SLAM with a camera without odometry,2017-01-13 07:04:46 -0600,1484298286,GEN,Slam
+ROSA186,DP402,ROSAnswers,DIN-USB cable,2016-09-17 10:16:43 -0600,1474118203,GEN,Base
+ROSA184,DP403,ROSAnswers,P2os and rosaria not connecting to Pioneer P3-AT,2016-06-08 07:36:19 -0600,1465382179,Ground,Integration
+ROSA183,DP404,ROSAnswers,rospy sensor_msgs.msg.BatteryState is not found,2016-04-12 14:45:15 -0600,1460483115,GEN,DevSupport
+ROSA182,DP405,ROSAnswers,how to integrate kobuki auto docking command in roscpp or python,2015-06-03 15:05:29 -0600,1433354729,Ground,Planning
+ROSA181,DP406,ROSAnswers,"7-8"" Tablet for Turtlebot?",2015-10-26 23:42:25 -0600,1445910145,Ground,Base
+ROSA179,DP407,ROSAnswers,What should I expect from Turtlebot calibration? / How do I know if my Turtlebot is broken?,2014-09-14 12:45:28 -0600,1410709528,Ground,Base
+ROSA178,DP408,ROSAnswers,Battery Usage Simulation in Gazebo,2015-10-06 09:39:44 -0600,1444135184,GEN,Sensing
+ROSA176,DP409,ROSAnswers,Contacting Turtlebot Distributor (I Heart Engineering).,2015-04-14 14:09:57 -0600,1429031397,Ground,Base
+ROSA175,DP410,ROSAnswers,Long term turtlebot storage and care,2015-03-04 11:18:00 -0600,1425478680,Ground,Base
+ROSA174,DP411,ROSAnswers,How to power off Kinect from software,2015-01-25 08:32:39 -0600,1422181959,GEN,Control
+ROSA171,DP412,ROSAnswers,tum_ardrone autopilot,2014-05-28 00:39:53 -0600,1401248393,Aerial,Navigation
+ROSA168,DP413,ROSAnswers,EKF dosen't work perfectly,2014-02-07 03:52:29 -0600,1391752349,GEN,Base
+ROSA164,DP414,ROSAnswers,rostopic echo to webpage,2013-06-04 03:50:22 -0600,1370328622,GEN,Base
+ROSA163,DP415,ROSAnswers,Turtlebot bringup problems,2013-03-19 07:22:12 -0600,1363688532,Ground,Base
+ROSA162,DP416,ROSAnswers,turtlebot_bringup error - invalid <param> tag [closed],2013-03-05 05:33:41 -0600,1362472421,Ground,Base
+ROSA161,DP417,ROSAnswers,Microsoft Kinect or ASUS Xtion ? [closed],2012-02-05 14:54:02 -0600,1328460842,GEN,Vision
+ROSA158,DP418,ROSAnswers,Turtlebot (clearpath) Kinect Visualization Tutorial,2012-08-19 19:29:09 -0600,1345415349,Ground,Vision
+ROSA156,DP419,ROSAnswers,How to connect the kinetic sensor to my ROS computer,2012-12-28 13:08:41 -0600,1356707321,GEN,Vision
+ROSA155,DP420,ROSAnswers,rviz: unsaved changes,2012-10-15 02:27:30 -0600,1350278850,GEN,DevSupport
+ROSA153,DP421,ROSAnswers,P2OS teleop,2012-06-12 06:54:22 -0600,1339494862,GEN,Base
+ROSA1520,DP422,ROSAnswers,I want to control 10 dynamixel motors using ROS Python. I am succeeding up to 6 motors at a time but not all,2017-06-03 05:42:57 -0600,1496479377,GEN,Control
+ROSA151,DP423,ROSAnswers,Error reading from SCI port. No data. Turtlebot disconnects when set Full Mode,2012-07-08 07:39:49 -0600,1341743989,GEN,Base
+ROSA1509,DP424,ROSAnswers,How to make a slam robot with navigation?,2016-01-07 08:39:25 -0600,1452163165,GEN,Slam
+ROSA1508,DP425,ROSAnswers,Battery Monitor,2015-11-01 08:27:39 -0600,1446373659,GEN,Infrastructural
+ROSA1490,DP426,ROSAnswers,kinect dies when using the follower example on a turtlebot,2013-01-26 09:39:21 -0600,1359200361,Ground,Base
+ROSA149,DP427,ROSAnswers,Gazebo dead slow on 8x2.7GHz cpu with a NVidia GT650m gpu,2012-06-13 05:05:40 -0600,1339574740,GEN,Base
+ROSA147,DP428,ROSAnswers,react on diagnostics (eg shutdown on low battery),2012-04-26 05:37:41 -0600,1335429461,GEN,Infrastructural
+ROSA1451,DP429,ROSAnswers,"Looking for existing Electromyograph EMG/EEG, or voltage messages",2018-10-19 04:10:40 -0600,1539933040,GEN,DevSupport
+ROSA144,DP430,ROSAnswers,kinect issues on different machines,2012-02-09 23:07:54 -0600,1328836074,GEN,Vision
+ROSA1437,DP431,ROSAnswers,Problem creating a ROS package with the presence of external headers,2015-09-17 04:11:33 -0600,1442473893,GEN,Base
+ROSA1427,DP432,ROSAnswers,irobot create,2012-12-24 03:47:16 -0600,1356328036,Ground,Base
+ROSA1425,DP433,ROSAnswers,Problem adding rosserial node to turtlebot bringup,2012-07-13 18:27:49 -0600,1342214869,Ground,Base
+ROSA142,DP434,ROSAnswers,irobot create odometry package,2011-12-17 16:14:21 -0600,1324145661,Ground,Infrastructural
+ROSA1418,DP435,ROSAnswers,Problem in determining a link language while using external libraries,2015-09-22 07:38:21 -0600,1442918301,GEN,Base
+ROSA1412,DP436,ROSAnswers,"publisher can only in While? no, maybe other reason.",2018-06-11 05:10:34 -0600,1528704634,GEN,Base
+ROSA141,DP437,ROSAnswers,Kinect does not turn on / turns off on its own,2011-12-07 13:35:18 -0600,1323272118,GEN,Integration
+ROSA1406,DP438,ROSAnswers,Turtlebot and turtlebot arm and hokuyo laser rangefinder,2012-03-25 16:33:09 -0600,1332703989,Ground,Base
+ROSA1403,DP439,ROSAnswers,using move_base recovery for initial pose estimation,2014-04-10 01:02:46 -0600,1397102566,GEN,Planning
+ROSA1402,DP440,ROSAnswers,TurtleBot Bringup Not Connecting to Port,2018-03-30 10:52:09 -0600,1522417929,Ground,Base
+ROSA1396,DP441,ROSAnswers,About Battery Management Systems,2017-07-26 05:24:02 -0600,1501057442,GEN,Infrastructural
+ROSA1394,DP442,ROSAnswers,ROS Battery Status,2017-02-16 17:08:11 -0600,1487272091,GEN,Base
+ROSA1393,DP443,ROSAnswers,Connect failed RosAria with Robot,2016-11-21 03:49:37 -0600,1479707377,GEN,Integration
+ROSA139,DP444,ROSAnswers,Best PC architecture to run Turtlebot,2011-09-21 18:12:36 -0600,1316639556,Ground,Base
+ROSA1389,DP445,ROSAnswers,turtlebot bad gyro calibration,2015-11-23 03:28:36 -0600,1448256516,Ground,Sensing
+ROSA1386,DP446,ROSAnswers,Kinect isn't visible from Odroid when battery powered (turtlebot v2),2015-01-31 15:23:57 -0600,1422725037,Ground,Integration
+ROSA1382,DP447,ROSAnswers,Can RosAria and p2os both be used simultaneously for pioneer robots?,2014-12-03 03:47:01 -0600,1417585621,Ground,Base
+ROSA1372,DP448,ROSAnswers,Workstation as Master [Turtlebot],2013-06-18 11:10:39 -0600,1371564639,Ground,Base
+ROSA1371,DP449,ROSAnswers,Turtlebot2 power for laptop,2013-03-15 01:13:10 -0600,1363320790,Ground,Base
+ROSA137,DP450,ROSAnswers,Is visualization OK on laptops with Optimus+Bumblebee?,2011-06-25 11:06:10 -0600,1309010770,GEN,Integration
+ROSA1368,DP451,ROSAnswers,Dashboard is unble to check the laptop battey state,2012-07-15 21:06:36 -0600,1342397196,GEN,Integration
+ROSA1366,DP452,ROSAnswers,Turtlebot dying when launching kinect,2012-05-17 09:59:26 -0600,1337259566,Ground,Base
+ROSA1362,DP453,ROSAnswers,file [rospack find turtlebot_navigation/nav_rviz.vcg] does not exist,2011-11-10 01:57:45 -0600,1320897465,GEN,Navigation
+ROSA136,DP454,ROSAnswers,How to connect Kinect to a 12v battery,2011-04-05 05:59:14 -0600,1301993954,GEN,Base
+ROSA1359,DP455,ROSAnswers,Does 'Battery' matter to simulated pr2 robot,2011-08-15 05:58:48 -0600,1313398728,Humanoid ,DevSupport
+ROSA1357,DP456,ROSAnswers,Loading a prior map with gmapping,2011-03-16 07:37:20 -0600,1300271840,GEN,Mapping
+ROSA1354,DP457,ROSAnswers,Failed to put the turtlebot in full mode,2012-03-13 10:34:01 -0600,1331645641,Ground,Base
+ROSA1344,DP458,ROSAnswers,Autonomous docking,2019-11-18 07:07:21 -0600,1574071641,Ground,Planning
+ROSA134,DP459,ROSAnswers,PNI Digital Compass Driver,2011-07-09 10:43:11 -0600,1310218991,GEN,Infrastructural
+ROSA133,DP460,ROSAnswers,Suggestions on using irobot create with hokuyo urg 04lx / turtlebot?,2012-09-27 02:03:24 -0600,1348722204,Ground,DevSupport
+ROSA1329,DP461,ROSAnswers,how can I use sensor_msgs/BatteryState,2017-07-10 08:04:45 -0600,1499684685,GEN,DevSupport
+ROSA1324,DP462,ROSAnswers,Poor results of loop closurse detection rtabmap_ros.,2016-08-03 12:38:19 -0600,1470238699,GEN,Mapping
+ROSA1323,DP463,ROSAnswers,Android and ROS Communication over USB instead of Wifi,2011-06-12 05:55:37 -0600,1307868937,GEN,Infrastructural
+ROSA132,DP464,ROSAnswers,USB Graphics Card for Ubuntu 12.04LTS,2013-01-28 03:54:48 -0600,1359352488,GEN,Base
+ROSA1310,DP465,ROSAnswers,"Turtlebot teleop running, no response",2013-04-24 13:07:35 -0600,1366819655,Ground,Control
+ROSA131,DP466,ROSAnswers,Roomba 500 series installation problem,2012-02-16 01:11:03 -0600,1329361863,Service,Infrastructural
+ROSA1305,DP467,ROSAnswers,"iRobot Create and BeagleBoard ""Failed to open port /dev/ttyUSB0"" [closed]",2012-08-07 23:06:16 -0600,1344391576,Ground,Integration
+ROSA1304,DP468,ROSAnswers,Raspberry Pi optimization [closed],2012-08-19 10:24:24 -0600,1345382664,GEN,Base
+ROSA1302,DP469,ROSAnswers,How to use bilibot?,2012-02-07 21:53:06 -0600,1328658786,Ground,Base
+ROSA1300,DP470,ROSAnswers,Starting p3dx using p2os,2011-12-09 05:43:31 -0600,1323416611,Ground,Control
+ROSA1298,DP471,ROSAnswers,"Status ""Stale"" in Turtlebot's dashboard",2011-11-22 03:56:57 -0600,1321941417,Ground,Base
+ROSA1293,DP472,ROSAnswers,"Turtlebot outputting over serial, but not receiving",2014-03-06 16:41:22 -0600,1394134882,Ground,Base
+ROSA1284,DP473,ROSAnswers,Kinect power - Create shutdown issue,2011-07-27 02:40:08 -0600,1311745208,GEN,Base
+ROSA1282,DP474,ROSAnswers,turtlebot Roomba/ Create power issues.,2012-02-14 07:03:23 -0600,1329210203,Ground,Infrastructural
+ROSA128,DP475,ROSAnswers,Information about Turtlebot2,2012-10-25 05:06:43 -0600,1351148803,Ground,Base
+ROSA124,DP476,ROSAnswers,How do i reset the odometry topic on ardrone_autonomy,2015-06-28 12:21:58 -0600,1435504918,GEN,DevSupport
+ROSA123,DP477,ROSAnswers,Can a SMACH state machine be paused and resumed?,2013-04-21 14:20:21 -0600,1366564821,GEN,DevSupport
+ROSA122,DP478,ROSAnswers,ekf_localization: odometry/filtered topic:Frequency too low?,2016-03-08 10:18:00 -0600,1457443080,GEN,Localization
+ROSA121,DP479,ROSAnswers,Which single board computer should I chose?,2016-03-26 06:43:19 -0600,1458985399,GEN,DevSupport
+ROSA120,DP480,ROSAnswers,How can I power a kinect using the iRobot Create 2 base? (Turtlebot),2016-06-06 16:03:17 -0600,1465239797,Ground,DevSupport
+ROSA119,DP481,ROSAnswers,I need help writing a controller node for a drone,2017-01-12 04:12:47 -0600,1484201567,Aerial,Base
+ROSA117,DP482,ROSAnswers,turtlebot3 low battery beeping,2018-07-03 17:43:18 -0600,1530650598,Ground,DevSupport
+ROSA115,DP483,ROSAnswers,sending velocity commands to the robot throught cmd_vel topic,2019-08-25 06:45:28 -0600,1566726328,GEN,Sensing
+ROSA113,DP484,ROSAnswers,ROS Create2 ca_driver dashboard?,2020-01-20 13:41:46 -0600,1579538506,GEN,Base
+ROSA112,DP485,ROSAnswers,turtlebot3 is not functionnig on his bettery i don't undrstend the problem,2020-01-15 12:51:32 -0600,1579103492,Ground,Base
+ROSA111,DP486,ROSAnswers,Open Mobile Manipulator Project [closed],2019-12-22 03:56:07 -0600,1576997767,GEN,Control
+ROSA110,DP487,ROSAnswers,local costmap window slowly drifts over static global map,2019-01-31 21:12:06 -0600,1548976326,GEN,Mapping
+ROSA11,DP488,ROSAnswers,Cannot see the scan data of rplidar on raspberry pi,2015-05-10 20:38:28 -0600,1431301108,GEN,Sensing
+ROSA107,DP489,ROSAnswers,Battery damaged after full discharge,2019-08-19 01:56:05 -0600,1566190565,GEN,Base
+ROSA106,DP490,ROSAnswers,Hokuyo UST-10LX power options,2019-04-23 18:03:58 -0600,1556053438,GEN,Base
+ROSA105,DP491,ROSAnswers,"Kobuki ""malformed subpayload""",2013-01-14 06:04:54 -0600,1358150694,Ground,Base
+ROSA104,DP492,ROSAnswers,Have two nodes publish to same topic,2019-03-18 12:01:25 -0600,1552921285,GEN,Base
+ROSA103,DP493,ROSAnswers,Turtlebot3 burger is not charging [closed],2019-01-17 08:19:22 -0600,1547720362,Ground,Base
+ROSA102,DP494,ROSAnswers,rosserial kinetic [Error 5] Input/output error,2018-12-23 10:43:08 -0600,1545568988,GEN,Vision
+ROSA101,DP495,ROSAnswers,Getting started in the world of drone programming,2017-03-16 10:11:54 -0600,1489669914,GEN,Base
+ROSA1,DP496,ROSAnswers,Ubuntu 12.04 and Pandaboard -> fails to open ASUS xtion/ Driver issues for ARM,2012-08-26 08:41:28 -0600,1345981288,GEN,Base
+ROSA0,DP497,ROSAnswers,Minimum Hardware Requirement for ROS,2014-09-19 16:15:41 -0600,1411154141,GEN,Base
+ROSD36,DP498,ROSDiscourse,Turtlebot3 - Joule stalled,2017-09-23 4:28 PM,1506151680,Ground,Base
+ROSD3,DP499,ROSDiscourse,"Which board/microprocessor should I use? I want to use ROS Kinetic on Ubuntu 16.04, along with packages like move_base, laser_scan_matcher for indoor autonomous navigation",2019-11-14 5:53 AM,1573721580,GEN,Base
+ROSD253,DP500,ROSDiscourse,TurtleBot3 software and firmware update and 'waffle_pi',2018-01-18 3:39 AM,1516253940,Ground,Base
+ROSD250,DP501,ROSDiscourse,What do you want to see in an educational ROS platform?,2019-10-10 2:21 AM,1570684860,GEN,Base
+ROSD243,DP502,ROSDiscourse,Autoware v1.12-alpha.1,2019-06-03 11:15 PM,1559571300,GEN,Base
+ROSD235,DP503,ROSDiscourse,Looking for Kobuki power supply / battery charger,2019-04-15 9:00 PM,1555329600,Ground,Base
+ROSD23,DP504,ROSDiscourse,Announcing tf_remapper_cpp and static_transform_mux: More power to your TF!,2019-05-19 5:39 PM,1558255140,GEN,Base
+ROSD227,DP505,ROSDiscourse,SBS (Smart Battery System) SMBus over USB?,2018-04-16 8:11 AM,1523877060,GEN,Infrastructural
+ROSD226,DP506,ROSDiscourse,[TB3] TurtleBot3 Automatic Parking under AR detection,2018-04-16 8:11 AM,1523877060,Ground,Navigation
+ROSD225,DP507,ROSDiscourse,Turtlebot3 - Impressions so far,2017-10-11 3:02 PM,1507701720,Ground,Base
+ROSD220,DP508,ROSDiscourse,Regional Robotics Sailing Winter Academy at Zhejiang University,2018-11-27 7:11 PM,1543309860,GEN,Base
+ROSD22,DP509,ROSDiscourse,Autoware 1.12 released,2019-07-08 7:32 PM,1562581920,GEN,Base
+ROSD163,DP510,ROSDiscourse,Research about the battery in robots,2018-07-30 11:33 PM,1532961180,Ground,Base
+ROSD144,DP511,ROSDiscourse,Autoware Reference Platform Working Group Meeting #3,2019-11-12 11:42 AM,1573569720,GEN,Base
+ROSD138,DP512,ROSDiscourse,Project Azure for Kinect (4th gen Kinect),2018-05-08 11:21 AM,1525789260,GEN,Vision
+ROSD12,DP513,ROSDiscourse,Using NUC with Kobuki,2016-09-10 6:38 PM,1473500280,GEN,Base
+ROSD101,DP514,ROSDiscourse,"Don't miss EU funding for ROS developments via ROSIN FTPs - Next cut-off dates: June 14 & Sept 13, 2019",2019-05-02 8:43 AM,1556797380,GEN,Base
+SO2,DP515,StackOverflow,Simulating battery life of a Turtlebot 3 in Gazebo,2019-01-16 9:24 PM,1547637840,Ground,DevSupport
+W50,DP516,Wiki,phm_tools,2019-07-09 8:28:22,1567855702,GEN,Infrastructural
+W42,DP517,Wiki,ocean_battery_driver,2008-08-27 20:59:21,1268092761,GEN,Infrastructural
+W39,DP518,Wiki,rosserial_embeddedlinux,2012-08-04 19:09:12,1333922952,GEN,Infrastructural
+W31,DP519,Wiki,pr2_gazebo_plugins,2009-09-03 20:13:44,1236640424,GEN,Infrastructural
+W3,DP520,Wiki,ps3joy,2009-07-28 1:56:02,1302324962,GEN,Integration
+W23,DP521,Wiki,battery_monitor_rmp,2014-08-01 15:17:15,1389201435,GEN,Infrastructural
+W21,DP522,Wiki,pr2_power_board,2008-12-10 2:46:37,1223790397,GEN,Infrastructural
+W2,DP523,Wiki,laptop_battery_monitor,2016-05-04 22:41:06,1459906866,GEN,Infrastructural
+W17,DP524,Wiki,wiimote,2008-07-03 23:09:05,1204942145,GEN,Integration
+W14,DP525,Wiki,m4atx_battery_monitor,2014-08-01 15:01:28,1389200488,GEN,Infrastructural
+W12,DP526,Wiki,kobuki_node,2012-04-16 2:51:49,1365054709,Ground,Infrastructural
+W11,DP527,Wiki,power_monitor,2009-08-24 23:30:36,1291858236,GEN,Infrastructural
