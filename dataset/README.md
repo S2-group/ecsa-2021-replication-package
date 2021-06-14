@@ -41,7 +41,7 @@ $ cd phase1/
 $ python energy_mining.py	
 ```	
 
-The output will be JSON files in the <i>output_data</i> folder. By default, the data from MSR2021 paper is already there.	
+The output will be JSON files in the <i>output_data</i> folder. By default, the data from the paper is already there.	
 
 Now, it is time to generate a CSV file for Phase 2.
 
