@@ -94,9 +94,9 @@ The data in the CSV files has been manually, collaboratively, and iteratively ex
 ```
 ./data_analysis/
     |--- phase3-data_points_selection/
-	|--- ...
+	|--- selected_data_points.csv		Spreadsheet with the selected data points.
     |--- phase4-tactics_extraction/
-        |--- ...
+        |--- extracted_tactics.csv		Spreadsheet with the extracted e-aware tactics.
 ```
 
 ## License
