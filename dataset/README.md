@@ -34,7 +34,7 @@ token = ***
 ```	
 The GitHub token is required for Phase 2.	
 
-## Phase 1: Searching for Energy-related Data Points
+## Searching for Energy-related Data Points
 
 ```bash	
 $ cd phase1/	
@@ -50,7 +50,7 @@ $ bash gen_csv.sh
 ```	
 The output will be in the <i>energy-term-datapoints.csv</i> file.
 
-## Phase 2: Generating Timestamps
+## Generating Timestamps
 
 Here we just get the data point dates and transform them into timestamps, necessary for answering RQ1. The list of <b>included</b> data points (energy-related ones) must be in <i>input_data/included-datapoints.csv</i>. 
 
@@ -63,7 +63,7 @@ $ python get_timestamps.py
 
 All the data required for Phase 2 will be in the <i>output_data/energy-datapoints.csv</i> file. Now, proceed to the [data analysis](../data_analysis/).
 
-## Phase 3: Searching for False Negatives
+## Searching for False Negatives
 
 In this phase we generate a list of data points without the energy terms, so we can check whether we miss something (false negatives). 
 
