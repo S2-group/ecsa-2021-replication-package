@@ -93,8 +93,6 @@ The data in the CSV files has been manually, collaboratively, and iteratively ex
 ---
 ```
 ./data_analysis/
-    |--- phase2-filtering_by_terms/
-        |--- ...
     |--- phase3-data_points_selection/
 	|--- ...
     |--- phase4-tactics_extraction/
