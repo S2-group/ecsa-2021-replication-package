@@ -58,7 +58,7 @@ Each of the folders listed above are described in details in the remaining of th
 
 #### Mining the Data
 
-All the explanation of the data mining is in the folder [readme](https://github.com/S2-group/msr-2021-green-practices-replication-package/blob/main/dataset_building/README.md).
+All the explanation of the data mining is in the folder [readme](./dataset/README.md).
 
 ---
 ```
