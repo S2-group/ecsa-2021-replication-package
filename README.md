@@ -42,7 +42,7 @@ This replication package is structured as follows:
 ./
     |--- dataset/     		  The full dataset of ROS-based systems mined from GitHub and the scripts used to process the data.
     |--- data_analysis/       	  Mining scripts and spreadsheets used in the manual data analysis.
-    |--- ECSA_2021.pdf            (not available yet)  A copy of the paper in pdf format.
+    |--- ecsa_2021_ea_tactics.pdf            (not available yet)  A copy of the paper in pdf format.
 ```
 
 Each of the folders listed above are described in details in the remaining of this readme.
