@@ -31,7 +31,7 @@ If the dataset is helping your research, consider to cite it is as follows, than
 }
 ```
 
-The preprint paper is available [here](./ecsa_ea_tactics_2021.pdf).
+The preprint paper is available [here](./ecsa_2021_ea_tactics.pdf).
 
 ### Overview of the Replication Package
 ---
