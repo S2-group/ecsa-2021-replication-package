@@ -2,7 +2,7 @@
 
 <!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3672050.svg)](https://doi.org/10.5281/zenodo.3672050)-->
 
-This repository contains the replication package of the paper submitted to ECSA 2021 with the title **Energy-Aware Robotics Software: A Catalog of Architectural Tactics from the ROS Ecosystem**.
+This repository contains the replication package of the paper published at ECSA 2021 with the title **Architectural Tactics for Energy-aware Robotics Software: A Preliminary Study**.
 
 This study has been designed, developed, and reported by the following investigators:
 
@@ -12,30 +12,26 @@ This study has been designed, developed, and reported by the following investiga
 - [Michel Albonico](https://michelalbonico.github.io) (Vrije Universiteit Amsterdam/Federal University of Technology, Paraná) 
 - [Grace A. Lewis](https://www.andrew.cmu.edu/user/gritter/lewis.html) (Software Engineering Institute, Carnegie Mellon University, USA)
 
-
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
-<!--
+
 ## How to Cite the Dataset
 If the dataset is helping your research, consider to cite it is as follows, thanks!
 
 ```
-@inproceedings{MSR_2021_robotics_green_practices,
-  title = { Mining Energy-Related Practices in Robotics Software },
-  author = { Michel Albonico and Ivano Malavolta and Gustavo Pinto and Emitzá Guzmán and Katerina Chinnappan and Patricia Lago },
+@inproceedings{ECSA_2021_ea_tactics,
+  title = { Architectural Tactics for Energy-aware Robotics Software: A Preliminary Study },
+  author = { Katerina Chinnappan and Ivano Malavolta and Grace Lewis and Michel Albonico and Patricia Lago },
   pages = { To appear },
-  month = { May },
-  publisher = {{IEEE} / {ACM}},
+  month = { June },
+  publisher = {{Springer}},
   year      = {2021},
-  booktitle = { Proceedings of the 18th International Conference on Mining Software Repositories, {MSR} },
-  url = {https://arxiv.org/abs/2103.13762},
-  address = { New York, NY },
+  booktitle = { Software Architecture - 15th European Conference, {ECSA} 2021, Växjö,
+               Sweden, September 13-11, 2021, Proceedings }
 }
 ```
 
-
-The preprint paper is available on [arXiv](https://arxiv.org/abs/2103.13762).
--->
+The preprint paper is available [here](./ecsa_ea_tactics_2021.pdf).
 
 ### Overview of the Replication Package
 ---
