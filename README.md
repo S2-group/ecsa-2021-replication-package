@@ -35,7 +35,7 @@ The preprint paper is available [here](./ecsa_2021_ea_tactics.pdf).
 
 ### Watch our Presentation Video
 
-[![ECSA Presentation]](https://www.youtube.com/watch?v=eS6-Fod7W9w)
+[![ECSA Presentation](./cover-slides.png)](https://www.youtube.com/watch?v=eS6-Fod7W9w)
 
 ### Overview of the Replication Package
 ---
