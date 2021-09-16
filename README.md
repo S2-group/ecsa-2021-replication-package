@@ -33,6 +33,10 @@ If the dataset is helping your research, consider to cite it is as follows, than
 
 The preprint paper is available [here](./ecsa_2021_ea_tactics.pdf).
 
+### Watch our Presentation Video
+
+[![ECSA Presentation]](https://www.youtube.com/watch?v=eS6-Fod7W9w)
+
 ### Overview of the Replication Package
 ---
 
