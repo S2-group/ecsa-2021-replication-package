@@ -17,7 +17,7 @@ The full dataset including raw data, mining scripts, and analysis scripts produc
 
 #### Watch our Presentation Video
 
-[!<img src="https://img.youtube.com/vi/eS6-Fod7W9w/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=eS6-Fod7W9w)
+[<img src="https://img.youtube.com/vi/eS6-Fod7W9w/maxresdefault.jpg" width="60%">](https://www.youtube.com/watch?v=eS6-Fod7W9w)
 
 ## How to Cite the Dataset
 If the dataset is helping your research, consider to cite it is as follows, thanks!
