@@ -94,9 +94,11 @@ The data in the CSV files has been manually, collaboratively, and iteratively ex
 ```
 ./data_analysis/
     |--- phase3-data_points_selection/
-	|--- selected_data_points.csv		Spreadsheet with the selected data points.
+	   |--- datapoints_selection.xlsx	Spreadsheet with all data points and their selection.
     |--- phase4-tactics_extraction/
-        |--- extracted_tactics.csv		Spreadsheet with the extracted e-aware tactics.
+        |--- data_classification.xlsx	Spreadsheet with the datapoints classification.
+        |--- tactics_descriptions.pdf   Document containing the full description of all extracted tactics.
+        |--- tactics_tree.pdf   A tree arranging all extracted tactics in this study.
 ```
 
 ## License
